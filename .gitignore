@@ -12,3 +12,9 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 terraform.rc
+
+# Local .terraform directories
+**/.terraform/*
+
+# Provider files
+*.exe
