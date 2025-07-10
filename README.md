@@ -1,4 +1,4 @@
-# Amazon Prime CI/CD pipeline DevOps simulation
+# Amazon Prime CI/CD pipeline
 ![Pipeline Overview](./src/Overview.png)
 
 ## Project Overview
